@@ -1,0 +1,1 @@
+export type MinfiyOption = boolean | 'terser' | 'esbuild';

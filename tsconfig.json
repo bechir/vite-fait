@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "lib",
+    "strict": true,
+    "declarationDir": "types",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    // "isolatedModules": true
+  },
+  "include": ["src"],
+  "typeAcquisition": { "include": ["jest"] }
+}
