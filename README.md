@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://npmjs.com/package/vite-fait"><img src="https://img.shields.io/npm/v/vite-fait.svg" alt="npm package"></a>
+  <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
+  <a href="https://app.travis-ci.com/github/bechir/vite-fait"><img src="https://app.travis-ci.com/bechir/vite-fait.svg?branch=main" alt="tests"></a>
+</p>
+<br/>
+
 # Vite ⚡ Fait
 > Easily Integrate Vite Into Your Backend Application
 
@@ -12,6 +19,8 @@ yarn add --dev vite-fait
 
 # Usage
 [Read the Vite docs here.][Vite Docs]
+
+> Using Symfony? [See the docs](https://github.com/bechir/vite-bundle/blob/main/README.md)
 
 Create `vite.config.js` in the root folder:
 
